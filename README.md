@@ -1,10 +1,20 @@
 <!-- banner image starts here  -->
-<img src="./images/banner.png" width="100%">
+<img src="./images/al_amin_raju.jpg" width="400px%" height="480px">
 <!-- banner image ends here  -->
 
 <h1> 👋 Hello, I'm Al Amin Raju </h1>
 
 Full stack developer
+
+<!-- Contact me section starts here  -->
+
+[<img align="left" target="_blank" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />](https://www.facebook.com/oalaminraju)
+[<img align="left" target="_blank" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />](https://www.linkedin.com/in/al-amin-raju-832b9b149/)
+[<img align="left" target="_blank" alt="upwork" title="upwork" width="45" hspace="5" src="./images/upwork.svg" />](https://www.upwork.com/freelancers/~01ff18e186505cb8c9)
+<br />
+<br />
+
+<!-- Contact me section ends here  -->
 
 
 
