@@ -16,14 +16,32 @@ Full stack developer
 
 <!-- Contact me section ends here  -->
 
+<!-- about-me section starts here  -->
 
+### 👨‍🏫 &nbsp; About Me
 
+<p align="justify">
 I am passionate full stack developer. I try to take on new challenges and love to solve real world problems. I am strategic, goal-oriented and always work with an end goal in mind. Over the years, I have worked with several clients and successfully met their requirements. I pride myself on quality work and maintain excellent communication. Every day I try to learn something new. I mostly work with Python, JavaScript & PHP. I love technology.
+</p>
+<br />
 
-Skills: Python / Django / Django Rest Framework/ JavaScript/ TypeScript/ VueJS/ HTML / CSS / SASS/ JQuery/ Bootstrap
+<!-- about-me section end here -->
 
-- 🔭 I’m currently working on CrowdBotics 
-- 🌱 I’m currently learning Node.js 
+<!-- skills section starts here  -->
+
+### 🛠 &nbsp; Skills:
+
+- Front-end : HTML, CSS, SASS, Bootstrap, Materializecss, JavsScript, TypeScript, JQuery, AJAX, VueJS
+- Backend : Python, PHP, Django, Django Rest Framework, Laravel, Lumen
+- DBMS: MySQL, PostgreSQL
+- Software build tool: Docker
+- Application server: Apache
+- Data serialization language: JSON, YAML
+- Version congrol system: Git, Bitbucket
+ 
+<br/>
+
+<!-- skills section starts here  -->
 
 
 <!-- work experience section starts here  -->
@@ -44,7 +62,7 @@ Skills: Python / Django / Django Rest Framework/ JavaScript/ TypeScript/ VueJS/ 
 ### 👨🏻‍🎓 &nbsp; Education
 
    B.Sc. in Computer Science & Engineering  
-   Eastern University
+   Eastern University <br/>
    Dhaka, Bangladesh.
 
 <br />
@@ -53,18 +71,19 @@ Skills: Python / Django / Django Rest Framework/ JavaScript/ TypeScript/ VueJS/ 
 
 <!-- my languages section starts here  -->
 
-### Languages:
+### 🌍 &nbsp; Languages:
 
 - 🇧🇩 Bangla : Native
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Fluent
 - 🇮🇳 Hindi : Intermediate
-  <br />
+
+<br />
 
 <!-- my languages section ends here  -->
 
 <!-- my sports and game section starts here  -->
 
-### Sports / Game / Activities / Hobby:
+### 🙍‍♂️ &nbsp; Sports / Game / Activities / Hobby:
 
 - 🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball
 - 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
